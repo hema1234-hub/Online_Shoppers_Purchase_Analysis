@@ -24,3 +24,4 @@ The model identified 69% of actual purchase sessions, but only 25% of its purcha
 
 ## Limitations
 The data contains session summaries, not chronological cart events, so it cannot measure cart abandonment. The results show associations and do not prove what causes a purchase.
+**Note:** The model produced a convergence warning, so these scores are preliminary.
